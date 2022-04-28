@@ -19,3 +19,7 @@ added new image
 ## feature 1
 
 <img src="/images/pic3.jpg">
+
+### *feature 2*
+
+<img src="/images/pic4.jpg">
