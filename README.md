@@ -12,3 +12,5 @@ first attempt on git repository
 
 <img src="/images/pic1.jpg">
 
+added new image
+<img src="/images/pic2.jpg">
