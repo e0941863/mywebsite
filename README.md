@@ -27,3 +27,7 @@ added new image
 ### *feature 2*
 
 <img src="/images/pic4.jpg">
+
+### *feature 3*
+
+<img src="/images/pic6.jpg">
