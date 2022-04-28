@@ -16,6 +16,10 @@ added new image
 
 <img src="/images/pic2.jpg">
 
+**4th pic**
+
+<img src="/images/pic5.jpg">
+
 ## feature 1
 
 <img src="/images/pic3.jpg">
